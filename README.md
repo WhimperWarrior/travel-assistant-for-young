@@ -1,11 +1,11 @@
 # travel-assistant-for-young
 Travel Buddy – An AI-Powered Travel Assistant for Young Travelers
 
-Project Name:
+# Project Name:
 
 Travel Buddy – An AI-Powered Travel Assistant for Young Travelers
 
-1. The Problem
+# The Problem
 
 Most existing travel guides and blogs are created by adults. Their introductions, recommendations, and perspectives often don’t match the needs or interests of younger travelers—such as kids, teens, and young adults.
 
@@ -13,7 +13,7 @@ Key Gap: Young travelers lack a travel planning resource that is both engaging a
 
 Motivation: Travel Buddy aims to fill this gap by encouraging young people to explore the world, experience new cultures, and develop a love for travel in a safe and personalized way.
 
-2. The AI Solution
+# The AI Solution
 
 Travel Buddy uses artificial intelligence to curate and personalize travel experiences for young users.
 
